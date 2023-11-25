@@ -1,0 +1,14 @@
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\bin\Debug\net6.0\UserAuth.Library.deps.json
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\bin\Debug\net6.0\UserAuth.Library.runtimeconfig.json
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\bin\Debug\net6.0\UserAuth.Library.dll
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\bin\Debug\net6.0\UserAuth.Library.pdb
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.csproj.AssemblyReference.cache
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.AssemblyInfoInputs.cache
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.AssemblyInfo.cs
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.csproj.CoreCompileInputs.cache
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.dll
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\refint\UserAuth.Library.dll
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.pdb
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\UserAuth.Library.genruntimeconfig.cache
+C:\Users\ashfa\source\repos\UserAuth.Api\UserAuth.Library\obj\Debug\net6.0\ref\UserAuth.Library.dll
